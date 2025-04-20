@@ -1,0 +1,7 @@
+2024-03-15 10:00:01 INFO  Application started successfully
+2024-03-15 10:15:23 WARNING  High memory usage detected
+2024-03-15 10:30:45 ERROR  Database connection failed
+2024-03-15 10:31:01 INFO  Retrying database connection
+2024-03-15 10:31:05 INFO  Database connection restored
+2024-03-15 11:00:00 INFO  Processing daily backup
+2024-03-15 11:30:12 WARNING  Disk usage above 80%
